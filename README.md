@@ -32,9 +32,9 @@ It runs quietly in your menu bar and does its work invisibly.
 
 ## Installation
 
-1. Download the latest `Leapfrog.app` (or build it yourself — see the Technical Specification).
+1. Download the latest `Leapfrog.app`.
 2. Drag it into your `/Applications` folder.
-3. Double-click to launch. You'll see a small **rectangle-on-rectangle** icon appear in your menu bar (top-right of your screen, near the clock).
+3. Double-click to launch. You'll see a small **Leapfrog** icon appear in your menu bar (top-right of your screen, near the clock).
 
 **Note:** Because the app is distributed outside the Mac App Store, macOS may show a warning on first launch. If it does:
 - Right-click the app in `/Applications` → **Open** → confirm.
