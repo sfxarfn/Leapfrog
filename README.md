@@ -1,3 +1,5 @@
+<img width="64" height="64" alt="Leapfrog" src="https://github.com/user-attachments/assets/a80e9d51-e0d3-4711-907e-80e43e9f9c34" />
+
 # Leapfrog
 
 Smooth cursor movement between Mac displays of different sizes and resolutions.
